@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/C++/Projects/TS3Music/global.h">
+			<Option target="TS3Music"/>
+		</Unit>
 		<Unit filename="F:/C++/Projects/TS3Music/main.cpp">
+			<Option target="TS3Music"/>
+		</Unit>
+		<Unit filename="F:/C++/Projects/TS3Music/telnet.h">
 			<Option target="TS3Music"/>
 		</Unit>
 		<Unit filename="F:/C++/Projects/TS3Music/CMakeLists.txt">
